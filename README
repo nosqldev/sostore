@@ -1,0 +1,5 @@
+Small Objects Store
+===================
+
+This is a small objects storage system, in order to store tens of millions of
+small files/objects for large scale application.
